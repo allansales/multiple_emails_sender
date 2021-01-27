@@ -1,0 +1,3 @@
+person1 person1_email_address
+person2 person2_email_address
+<insert one person and address per row separeted by one blankspace>
